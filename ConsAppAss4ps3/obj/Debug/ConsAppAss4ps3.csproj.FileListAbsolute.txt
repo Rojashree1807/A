@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4ps3\ConsAppAss4ps3\bin\Debug\ConsAppAss4ps3.exe.config
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4ps3\ConsAppAss4ps3\bin\Debug\ConsAppAss4ps3.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4ps3\ConsAppAss4ps3\bin\Debug\ConsAppAss4ps3.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4ps3\ConsAppAss4ps3\obj\Debug\ConsAppAss4ps3.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4ps3\ConsAppAss4ps3\obj\Debug\ConsAppAss4ps3.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4ps3\ConsAppAss4ps3\obj\Debug\ConsAppAss4ps3.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConsAppAss4ps3\ConsAppAss4ps3\obj\Debug\ConsAppAss4ps3.pdb
